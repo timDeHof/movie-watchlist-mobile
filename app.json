@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "movie watchlist app",
-    "slug": "movie-watchlist-app",
+    "name": "movie watchlist",
+    "slug": "movie-watchlist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.your.moviewatchlist"
@@ -30,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "e4e1f0a8-92bf-4409-a46b-b94980d9cabf"
+        "projectId": "4d030869-ce1a-420a-8f5c-92fa2689a0e9"
       },
       "router": {
         "origin": false
